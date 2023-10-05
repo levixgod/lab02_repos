@@ -9,7 +9,7 @@
 
 using namespace std;
 
-//coments
+//comen
 int main()
 {
 	double a;
